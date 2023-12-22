@@ -65,11 +65,8 @@ NOTE: ngrok can timeout. you need to restart the session if you see session expi
 Project Snapshots
 ===================
 
-![Screenshot 2023-12-07 132244](https://github.com/stha1122/OrderEaseBot/assets/122188963/061da9a9-c2b0-488b-bfc7-641fc8724450)
+![IMG_20231222_234559](https://github.com/mohd-adeeb011/Order_By_Nemo/assets/110835808/2274841a-6a60-4595-8630-eade6b0dbdd7)
 
-![Screenshot 2023-12-07 132305](https://github.com/stha1122/OrderEaseBot/assets/122188963/e02ee4fe-9c66-4f06-b704-92e31537bb42)
+![IMG_20231222_234827](https://github.com/mohd-adeeb011/Order_By_Nemo/assets/110835808/2c0b4ece-48ad-4c75-9a39-6dc90e1f0150)
 
-![Screenshot 2023-12-07 132311](https://github.com/stha1122/OrderEaseBot/assets/122188963/34ed4c3b-bfe9-4db8-964a-fc69ca87007a)
-
-
-
+![IMG_20231222_234922](https://github.com/mohd-adeeb011/Order_By_Nemo/assets/110835808/3f0d5588-bbd2-4d15-92ec-54d03e54bf07)
